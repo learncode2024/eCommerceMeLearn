@@ -1,0 +1,169 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-07-18 16:27:13 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'u651610013_kurtilife'@'localhost' (using password: YES) /home/u651610013/domains/craoke.life/public_html/99kurti/system/database/drivers/mysqli/mysqli_driver.php 211
+ERROR - 2024-07-18 16:27:13 --> Unable to connect to the database
+ERROR - 2024-07-18 16:27:20 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'u651610013_kurtilife'@'localhost' (using password: YES) /home/u651610013/domains/craoke.life/public_html/99kurti/system/database/drivers/mysqli/mysqli_driver.php 211
+ERROR - 2024-07-18 16:27:20 --> Unable to connect to the database
+ERROR - 2024-07-18 16:27:20 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'u651610013_kurtilife'@'localhost' (using password: YES) /home/u651610013/domains/craoke.life/public_html/99kurti/system/database/drivers/mysqli/mysqli_driver.php 211
+ERROR - 2024-07-18 16:27:20 --> Unable to connect to the database
+ERROR - 2024-07-18 16:29:40 --> Severity: 8192 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated /home/u651610013/domains/craoke.life/public_html/99kurti/application/views/administrator/commonTemplates/templateFooter.php 52
+ERROR - 2024-07-18 16:29:44 --> Severity: 8192 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated /home/u651610013/domains/craoke.life/public_html/99kurti/application/views/administrator/commonTemplates/templateFooter.php 52
+ERROR - 2024-07-18 16:30:08 --> Severity: 8192 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated /home/u651610013/domains/craoke.life/public_html/99kurti/application/views/administrator/commonTemplates/templateFooter.php 52
+ERROR - 2024-07-18 16:30:51 --> Severity: 8192 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated /home/u651610013/domains/craoke.life/public_html/99kurti/application/views/administrator/commonTemplates/templateFooter.php 52
+ERROR - 2024-07-18 16:35:13 --> 404 Page Not Found: Metajson/index
+ERROR - 2024-07-18 16:37:58 --> Severity: 8192 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated /home/u651610013/domains/craoke.life/public_html/99kurti/application/views/administrator/commonTemplates/templateFooter.php 52
+ERROR - 2024-07-18 16:40:58 --> 404 Page Not Found: Json/index
+ERROR - 2024-07-18 16:43:57 --> 404 Page Not Found: Metajson/index
+ERROR - 2024-07-18 16:48:00 --> Severity: 8192 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated /home/u651610013/domains/craoke.life/public_html/99kurti/application/views/administrator/commonTemplates/templateFooter.php 52
+ERROR - 2024-07-18 16:48:46 --> Severity: 8192 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated /home/u651610013/domains/craoke.life/public_html/99kurti/application/views/administrator/commonTemplates/templateFooter.php 52
+ERROR - 2024-07-18 16:48:48 --> Severity: 8192 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated /home/u651610013/domains/craoke.life/public_html/99kurti/application/views/administrator/commonTemplates/templateFooter.php 52
+ERROR - 2024-07-18 17:05:28 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 17:08:11 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 17:14:00 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 17:17:24 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 17:17:43 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 17:30:05 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 17:38:22 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 17:39:11 --> 404 Page Not Found: Assets/fonts
+ERROR - 2024-07-18 18:10:47 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 18:12:29 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 18:13:45 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 18:14:40 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 18:26:19 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 18:38:01 --> 404 Page Not Found: Assets/fonts
+ERROR - 2024-07-18 19:31:02 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 19:31:41 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 19:32:55 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 20:11:48 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 20:29:31 --> 404 Page Not Found: Assets/fonts
+ERROR - 2024-07-18 20:34:06 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 20:37:58 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 20:53:06 --> 404 Page Not Found: Assets/fonts
+ERROR - 2024-07-18 21:09:08 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 21:11:17 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 21:11:50 --> 404 Page Not Found: Wp-admin/setup-config.php
+ERROR - 2024-07-18 21:11:50 --> 404 Page Not Found: Wordpress/wp-admin
+ERROR - 2024-07-18 21:13:08 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 21:13:51 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 21:14:22 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 21:14:44 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 21:14:51 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 21:15:13 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 21:16:20 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 21:17:22 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 21:21:04 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 21:24:07 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 21:24:40 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 21:26:01 --> 404 Page Not Found: Assets/fonts
+ERROR - 2024-07-18 21:27:21 --> 404 Page Not Found: Assets/fonts
+ERROR - 2024-07-18 21:27:36 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 21:31:10 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 21:37:44 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 21:38:08 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 21:40:20 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 21:42:16 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 21:42:24 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 21:42:38 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 21:42:40 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 21:42:47 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 21:42:52 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 21:42:54 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 21:42:56 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 21:43:02 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 21:43:04 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 21:43:07 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 21:43:09 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 21:43:34 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 21:43:37 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 21:45:56 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 21:46:54 --> 404 Page Not Found: Assets/fonts
+ERROR - 2024-07-18 21:48:09 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 21:49:46 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 21:55:22 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 21:56:09 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:00:55 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:01:14 --> 404 Page Not Found: Assets/fonts
+ERROR - 2024-07-18 22:02:01 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:03:07 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:06:08 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:08:05 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:08:51 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:08:56 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:10:56 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:11:01 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:11:22 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:12:03 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:12:08 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:12:17 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:13:00 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:13:10 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:13:44 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:13:49 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:14:08 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:14:16 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:14:18 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:14:26 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:14:31 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:18:05 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:19:06 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:19:07 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:19:09 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:19:10 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:19:14 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:19:15 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:19:18 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:22:25 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:22:51 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:26:02 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:26:25 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:27:19 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:30:13 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:31:24 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:32:13 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:36:27 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:38:33 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:39:09 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:39:31 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:40:26 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:43:01 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:46:03 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:46:29 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:46:42 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:48:10 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:49:07 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:50:36 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:53:37 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:55:32 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:56:01 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:56:19 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:56:44 --> 404 Page Not Found: Assets/fonts
+ERROR - 2024-07-18 22:57:27 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:58:51 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 22:59:33 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 23:05:39 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 23:09:21 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 23:09:41 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 23:10:15 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 23:10:46 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 23:13:35 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 23:15:09 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 23:15:29 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 23:16:13 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 23:18:00 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 23:18:17 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 23:18:26 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 23:18:40 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 23:19:03 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 23:20:42 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 23:21:18 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 23:21:30 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 23:35:05 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 23:44:32 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 23:47:00 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 23:47:13 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 23:49:32 --> 404 Page Not Found: Assets/fonts
+ERROR - 2024-07-18 23:51:05 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 23:51:14 --> 404 Page Not Found: Assets/fonts
+ERROR - 2024-07-18 23:52:31 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 23:52:35 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-18 23:54:30 --> 404 Page Not Found: Assets/fonts
